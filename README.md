@@ -63,7 +63,7 @@ npm run dev
 Open http://localhost:3000
  in your browser.
 
-Roadmap
+## Roadmap
 
  Add project grid with filters (dashboard, storymap, 3D scene, etc.)
 
@@ -75,17 +75,15 @@ Roadmap
 
  Deploy to gis.cristy-parsons.com
 
- 📄 License
+## 📄 License
 
 This repository is licensed under the MIT License.
 
-👩‍💻 Author
+## 👩‍💻 Author
+**Cristy Parsons**  
+Software Engineer | GIS Specialist | Automation Enthusiast  
 
-Cristy Parsons
-GIS Specialist | Automation Enthusiast | Aspiring Software Engineer/Web Developer
+🌐 [Website](https://cristy-parsons.com)  
+📧 [Email Me](mailto:cristylynn0920@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/cristy-parsons)  
 
-🌐 cristy-parsons.com
-
-📧 Email Me
-
-💼 LinkedIn
